@@ -1,0 +1,6 @@
+@WarHammer40KAPI_HostAddress = http://localhost:5289
+
+GET {{WarHammer40KAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
