@@ -11,6 +11,7 @@ This is the Marvel Snap Go Back-End that allows users to collect Marvel Snap car
 
 - C# .NET
 - Postgres
+- Marvel Comics API
 
 GET cards api call - https://marvelsnapgoapi.azurewebsites.net/*api/WarHammer
 
